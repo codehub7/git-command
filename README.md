@@ -1,5 +1,6 @@
 # git-command
 ## Git Command Cheat Sheet
+```
 * git init
 * git add file_name.extention
 * git add .   (add all files to staging area)
@@ -35,8 +36,11 @@
 * git log --oneline
 * git log --stat
 * git log filename.extention
-* git log -n number_of_commit_want_to_show (ex: git log -n 3 will show 3 recent commits)
+* git log -n number_of_commit_want_to_show (ex: git log -n 3 will show 3 recent commits)<br><br>
 
+* git blame filename.ext (line by line last modified person shows)
+* git blame -e filename.ext (email shows of the persons)
+```
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
 * 2.	git remote add git-command https://github.com/codehub7/git-command.git
