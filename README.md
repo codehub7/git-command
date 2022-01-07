@@ -2,9 +2,9 @@
 ## Git Command Cheat Sheet
 * git init
 * git add file_name.extention
-*git add .   (add all files to staging area)
-*git commit -m “message”
-*git commit --amend
+* git add .   (add all files to staging area)
+* git commit -m “message”
+* git commit --amend
 * git status
 * git log
 * git log --reflog
