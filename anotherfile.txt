@@ -2,3 +2,4 @@ another text hrere
 testing commit prompt
 checking diff
 lets find out
+another list 2nd time for testing purpose
