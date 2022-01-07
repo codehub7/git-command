@@ -11,6 +11,9 @@
 * git log --reflog
 * git config –global alias.co checkout
 
+* git show hash_of_commit
+    * example: git show ed59633
+
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
 * 2.	git remote add git-command https://github.com/codehub7/git-command.git
