@@ -24,7 +24,7 @@
 * git stash save "message of the stash"
 * git stash list
 * git stash pop
-* git stash pop stash@{1}
+* git stash pop "stash@{1}"
 * git stash clear
 * git clean -f (remove all untracked files)
 * git clean -f -n (dry run to clear all untracked files)
