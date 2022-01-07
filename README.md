@@ -31,7 +31,7 @@
 * git stash drop "stash@{1}"
 * git clean -f (remove all untracked files)
 * git clean -f -n (dry run to clear all untracked files)
-<br><br>
+
 * git log 
 * git log --oneline
 * git log --stat
@@ -40,6 +40,9 @@
 
 * git blame filename.ext (line by line last modified person shows)
 * git blame -e filename.ext (email shows of the persons)
+
+* git rebase -i hash_of_last_good_commit
+
 ```
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
