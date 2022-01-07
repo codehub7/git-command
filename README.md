@@ -13,6 +13,12 @@
 
 * git show hash_of_commit
     * example: git show ed59633
+* git checkout hash_of_commit ( go back to that commit )
+  * git checkout master ( go back to master branch again)
+* git checkout hash_of_commit task.txt ( go back to that commit for task.txt file only)
+    * git checkout master -f ( if only one file has to go back to master)
+* git reset --soft hash_of_commit (doesn't delete any change)
+* git reset --hard hash_of_commit (delete all changes)
 
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
