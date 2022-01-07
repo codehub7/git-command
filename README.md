@@ -22,6 +22,7 @@
 
 * git stash 
 * git stash save "message of the stash"
+* git stash -p (select each of the files if you want to stash it or not)
 * git stash list
 * git stash pop
 * git stash pop "stash@{1}"
