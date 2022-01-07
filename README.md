@@ -3,7 +3,8 @@
 * git init
 * git add file_name.extention
 * git add .   (add all files to staging area)
-* git commit -m “message”
+* git commit -m “message” filename.ext (single file can be mentioned)
+* git commit -am "message"   (all file changes will be commited)
 * git commit --amend
 * git status
 * git log
