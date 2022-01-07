@@ -20,6 +20,14 @@
 * git reset --soft hash_of_commit (doesn't delete any change)
 * git reset --hard hash_of_commit (delete all changes)
 
+* git stash 
+* git stash list
+* git stash pop
+* git stash pop stash@{1}
+* git stash clear
+* git clean -f (remove all untracked files)
+* git clean -f -n (dry run to clear all untracked files)
+
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
 * 2.	git remote add git-command https://github.com/codehub7/git-command.git
