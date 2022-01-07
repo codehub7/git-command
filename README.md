@@ -27,8 +27,15 @@
 * git stash pop
 * git stash pop "stash@{1}"
 * git stash clear
+* git stash drop "stash@{1}"
 * git clean -f (remove all untracked files)
 * git clean -f -n (dry run to clear all untracked files)
+<br><br>
+* git log 
+* git log --oneline
+* git log --stat
+* git log filename.extention
+* git log -n number_of_commit_want_to_show (ex: git log -n 3 will show 3 recent commits)
 
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
