@@ -21,6 +21,7 @@
 * git reset --hard hash_of_commit (delete all changes)
 
 * git stash 
+* git stash save "message of the stash"
 * git stash list
 * git stash pop
 * git stash pop stash@{1}
