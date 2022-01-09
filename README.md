@@ -43,6 +43,13 @@
 
 * git rebase -i hash_of_last_good_commit
 
+
+* git branch --list
+* git branch <branch>  ( create the branch)
+* git branch -d <branch> (delete the branch safe)
+* git branch -D <branch> (force delete branch)
+* 
+
 ```
 ## If Local Repo is created first, but remote is not
 * 1.	First Create a remote repository at github/ bitbucket
