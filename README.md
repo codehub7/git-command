@@ -49,6 +49,8 @@
 * git branch <branch>  ( create the branch)
 * git branch -d <branch> (delete the branch safe)
 * git branch -D <branch> (force delete branch)
+* git branch --merged
+* git merge branch_name (fast forward, 3-way merge)
 * 
 
 ```
