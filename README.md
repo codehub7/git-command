@@ -37,13 +37,14 @@
 * git log --stat
 * git log filename.extention
 * git log -n number_of_commit_want_to_show (ex: git log -n 3 will show 3 recent commits)<br><br>
+* git log --all --decorate --oneline --graph
 
 * git blame filename.ext (line by line last modified person shows)
 * git blame -e filename.ext (email shows of the persons)
 
 * git rebase -i hash_of_last_good_commit
 
-
+* git checkout -b branch_name ( create a new branch and checkout to that)
 * git branch --list
 * git branch <branch>  ( create the branch)
 * git branch -d <branch> (delete the branch safe)
